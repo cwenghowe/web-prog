@@ -48,8 +48,6 @@ This course is designed to introduce students the fundamental of knowledge, tech
 | 7 | Hypertext Preprocessor (PHP) | PHP is a server-side scripting language used primarily for web development. It is a popular language for creating dynamic web pages and web-based applications, as it can interact with databases, handle form data, and perform other server-side tasks. PHP code is executed on the server before the web page is sent to the client's browser, allowing for the creation of complex and dynamic web content. PHP also has a large and active community that has developed many frameworks and libraries to simplify web development tasks.|<a href="https://github.com/drshahizan/software-engineering/blob/main/materials/sec01/mod1.md" ><img src="./images/markdownp.png" width="24px" height="24px" ></a>| <a href="./materials/php/readme.md" ><img src="./images/markdownh.png" width="24px" height="24px" ></a> |
 
 
-## 👩👨 [Student Information](./materials/student-info.md)
-
 ## [Labs](./lab)
 ### Hypertext Markup Language (HTML)
 
